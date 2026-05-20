@@ -70,8 +70,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&
 
 # 🌎 Conecte-se comigo
 
-# 🌎 Conecte-se comigo
-
 🔗 LinkedIn: https://www.linkedin.com/in/SEU-LINKEDIN/
 
 🐦 Twitter: https://twitter.com/SEU-TWITTER
