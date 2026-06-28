@@ -70,11 +70,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&
 
 # 🌎 Conecte-se comigo
 
-🔗 LinkedIn: https://www.linkedin.com/in/moabe-couto-7ab341404/
+🔗 LinkedIn: https://www.linkedin.com/in/moabe-couto
 
-🐦 Twitter: https://twitter.com/SEU-TWITTER
-
-📧 Email: moab.fullstack08.07@gmail.com
+📧 Email: moabecoutodev@gmail.com
 
 💼 Portfólio: https://SEU-PORTFOLIO.com
 
